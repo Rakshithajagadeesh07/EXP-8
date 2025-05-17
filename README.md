@@ -90,6 +90,14 @@ contract PostQuantumWallet {
 
 # Expected Output:
 
+Users register using a post-quantum secure public key.
+
+Transactions require a quantum-resistant signature for authentication.
+
+If a traditional quantum-vulnerable hash is used, the transaction fails.
+
+# Output:
+
 ![Screenshot 2025-05-15 230326](https://github.com/user-attachments/assets/2a2e8059-906a-47f4-ac5c-ecdf3c04cb07)
 
 
@@ -110,5 +118,5 @@ Demonstrates how Ethereum will transition to post-quantum security.
 Inspired by NIST’s post-quantum cryptography competition.
 
 # RESULT : 
-To create a quantum-resistant wallet using lattice-based cryptography instead of traditional ECDSA, ensuring that future quantum computers cannot break private keys is executed successfully
+Thus , to create a quantum-resistant wallet using lattice-based cryptography instead of traditional ECDSA is executed successfully
 
